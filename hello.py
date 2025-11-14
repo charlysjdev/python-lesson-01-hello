@@ -1,6 +1,6 @@
 def main():
     
-    print("Goodbye, world!") # Edit this line
+    print("Hello, world!") # Edit this line
 
 
 # Do NOT modify the below section.    
